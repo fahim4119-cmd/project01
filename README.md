@@ -1,7 +1,7 @@
-Sports Complex Management System
+Sports Complex Management System:
 A lightweight C++ console application for managing sports complex operations, built using procedural programming techniques. Handles bookings, customer records, facility tracking, and revenue reporting without object-oriented concepts.
 
-Features
+Features:
 Customer registration and profile management
 
 Sports facility booking and scheduling
@@ -12,7 +12,7 @@ Revenue calculation and daily reports
 
 Simple search and data viewing functions
 
-Tech Stack
+Tech Stack:
 C++ (procedural programming)
 
 Console-based interface
